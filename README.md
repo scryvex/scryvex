@@ -6,11 +6,10 @@
 # Olá! Sou o JP 👋
 
 ## Sobre mim
-- 💼 Experiência em análise de dados para tomada de decisões estratégicas.
+- 💼 Experiência no setor público, especializado na manipulação de grandes volumes de dados e modelagem preditiva para tomadas de decisões estratégicas.
 - 🔍 Certificado Google Data Analytics com sólida compreensão das melhores práticas em análise de dados.
-- 🌱 Aprimorando minhas habilidades em Python, SQL e Machine Learning pela EBAC.
+- 👨🏽‍💻 Certificação em Python, SQL e Machine Learning pela EBAC.
 - 💡 Apaixonado por desvendar insights nos dados e utilizar a tecnologia para resolver problemas complexos do dia a dia.
-- 🚀 Sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos inovadores.
   
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
