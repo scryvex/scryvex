@@ -16,5 +16,10 @@
 - 📊 **Digital Media Strategist** with experience in social media analytics, audience behavior, content performance, and developing communication strategies informed by data.
 - 💡 **Passionate about bridging journalism, creativity, and technology**, transforming complex data into meaningful insights and compelling stories that inform decisions and solve real-world problems.
   
-## Projects
-Soon
+## Projects (PT-BR)
+🚚 [Exploratory Data Analysis for Logistics](https://github.com/scryvex/dados-logistica)
+
+💵 [Predictive salary analysis](https://github.com/scryvex/salary-data)
+
+🔀 [Telegram Data Pipeline](https://github.com/scryvex/pipeline-dados-telegram)
+
